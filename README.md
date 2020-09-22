@@ -24,7 +24,7 @@ Ripple and its RippleNet Platform. Ripple was established in 2012 in San Francis
 
 * ### __Business Activities:__
     
-    Ripple is trying to solve two priority issues with our current financial and banking infrastucture.
+    Ripple is trying to solve two priority issues with our current financial and banking infrastucture using RippleNet.
     - The speed of bank transaction settlement - currently 3 - 5 business days.
     - The cost of bank transactions - $1.6 Trillion annually.
 
@@ -34,14 +34,25 @@ Ripple and its RippleNet Platform. Ripple was established in 2012 in San Francis
     Ripple's solution is to speed up the global transaction settle times bot by decentralizing currency or creating a system outside of the currently existing one but by joining the traditional banking system and working with them to update the currently infrastructure technology. Updating the current infrastucture would allow transactions to settle in a matter of seconds or less to and from anywhere in the world. The cost of each transaction would be less than a penny. 
     - How?
 
-    Ripple uses blockchain technology. Some might argue that Ripple is not using blockchain technology because blockchain is minable and decentralized. Blockchain is a distributed database existing on multiple computers at the same time. It is constantly growing as new sets of recordings or "blocks" are added to it. Each block contains a timestamp and a link to the previous block, so they actually form a chain. One of the main differences between Ripple and its token XRP and traditional blockchain is that the token cannot be mined. The token behind Ripple, XRP is what is used within Ripple's network to transfer currency. Without the ability for it to be mined and in that case not having the ability of arbitrarily creating more tokens Ripple's technology creates a safety net of stability for banks and money transfer agencies around the world as the token wouldn't have the added volatility other tokens/cryptocurrencies have.
+    RippleNet uses blockchain technology. Some might argue that Ripple is not using blockchain technology because blockchain is minable and decentralized. Blockchain is a distributed database existing on multiple computers at the same time. It is constantly growing as new sets of recordings or "blocks" are added to it. Each block contains a timestamp and a link to the previous block, so they actually form a chain. One of the main differences between Ripple and its token XRP and traditional blockchain is that the token cannot be mined. The token behind Ripple, XRP is what is used within Ripple's network to transfer currency. Without the ability for it to be mined and in that case not having the ability of arbitrarily creating more tokens Ripple's technology creates a safety net of stability for banks and money transfer agencies around the world as the token wouldn't have the added volatility other tokens/cryptocurrencies have. In other words RippleNet delivers a single, frictionless experience for global payments. It creates a standardized, centralized communication for a global network of banks that send and receive paymetn via Ripple's distributed financial technology providing real time messaging, clearing and settlement of transactions. 
     - How does it work?
 
-    The Ripple blockchain supports tokens that represent fiat currency, cryptocurrency, commodities and other units of value. It is considered a "Centralized" blockchain which makes it more reliable and fast. See diagram below:
+    The RippleNet blockchain supports tokens that represent fiat currency, cryptocurrency, commodities and other units of value. It is considered a "Centralized" blockchain which makes it more reliable and fast. See diagram below:
 
     <p align="center">
-        <img src=images/Ripple_tech_image.jpg>
-        
+        <img src=images/Ripple_Diagram.png>
+    <p>
+
+    - The Customer and the unfair advantage:
+
+    The company has over 300 customers and growing that range from traditional banks to foreign exchange companies, cryptocurrency exchanges, payment providers and technology companies. The market size of their customers range from Large cap companies to small cap. At the moment having a main competitor SWIFT, the unfair advantage Ripple has is having the ability to offer speed and low cost of the technology as well as a seamless implementation into their current systems. 
+
+* ### __Landscape:__
+
+
+
+
+
 
 
 
