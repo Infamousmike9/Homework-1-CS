@@ -45,10 +45,34 @@ Ripple and its RippleNet Platform. Ripple was established in 2012 in San Francis
 
     - The Customer and the unfair advantage:
 
-    The company has over 300 customers and growing that range from traditional banks to foreign exchange companies, cryptocurrency exchanges, payment providers and technology companies. The market size of their customers range from Large cap companies to small cap. At the moment having a main competitor SWIFT, the unfair advantage Ripple has is having the ability to offer speed and low cost of the technology as well as a seamless implementation into their current systems. 
+    The company has over 300 customers and growing, they range from traditional banks to foreign exchange companies, cryptocurrency exchanges, payment providers and technology companies. The market size of their customers range from large cap companies to small cap. At the moment having a main competitor SWIFT, the unfair advantage Ripple has is having the ability to offer speed and low cost of the technology as well as a seamless implementation into their current systems. 
 
 * ### __Landscape:__
 
+    Ripple is in the money transfer and trasaction settlement domain. 
+
+    *   Major Trends and Innovations:
+    
+    During the past 5 to 10 years major trends and innovations that have come onto the seen are peer to peer money transfer services like Paypal, Xoom, Venmo and Zelle. 
+    *  Major companies in the domian:
+    
+    Zelle is the only company that has been able to directly impact banks as the Zelle platform is linked directly to your bank account as part of the banks system and not a standalone application like the previously mentioned. Paypal, Xoom, Venmo all require you to connect your account to their system which adds the possibility of human error when adding your credentials. These innovations are still very different from that being offered by Ripple as the Ripple end user is not the individual transfereing the funds it is the platform the institution will use to facilitate that task which makes it that much more attractive to institutions as the institution is ultimately the end user. However, a company by the name of SWIFT mostly unheard of outside of the finance and banking world or Society for the Worldwide Interbank Financial Telecommunication is the major company in this domain as it has been around for almost 50 years offerng the service that Ripple is disrupting. SWIFT is currently the standard for global bank messaging connectivity and money transfer. 
+
+* ### __Results:__
+
+    * Business Impact:
+
+    During 2019 RippleNet surpassed 300 customers worldwide. The have seen 10 times YoY growth in transactions. At the end of 2019 they were able to release their Ondemand Liquidity system or (ODL) via RippleNet which leverages the XRP token as a bridge currency to eliminate the need for pre-funding in cross border payments. According to banks that use the service customers that previously did not participate in cross border payments are now doing more of it because of these enhancements. In less than 1 year they were able to add 24 customers the ODL platform. 
+    * Success Metrics:
+
+    Metrics used to measure succes in this domain are customers continued usage of the platform as well as continued consistent growth of platform. RippleNet as of end of 2019 has custoemrs in 45 countries and 6 continents with payout capabilities to 70 countries. MoneyGram a major customer for the RippleNet platform confirm in 2019 that they had moved more that 10% of its transaction volume between the United States and Mexico via Ripple's ODL platform. During 2019, the dollar value transacted via ODL increased more than one hundred times between Q1 and Q4. The number of ODL transactions also increased by 290% from Q3 to Q4. The plans for 2020 were to continue expanding the ODL platform for use in Asia Pacific territiries, EMEA and LATAM. Based on these metrics the company is performing very well but how does it look against its main competitor, SWIFT?
+    * The competition:
+
+    SWIFT operates in over 200 countires, has over 11,000 financial institutions worldwide that are customers. In 2018, SWIFT, recorded an average 34.16 million FIN message or money transfer per day an increase of 10% from 2017. SWIFT is the standard worldwide for money transfer across institutions. They also provide a large platform for the transfer and settlment of securities and foreign exchange. Swift has recently implemented Swift gpi (Global Payment Initiative) which uses a cloud-based platform for facilitating real time payments. As of 2019 SWIFT in collaboration with [R3](https://www.r3.com/about/) revealed the intention to allow the integration of blockchain software to its SWIFT gpi platform.
+
+    * Recommendations:
+
+    
 
 
 
