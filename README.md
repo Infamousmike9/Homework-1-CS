@@ -9,20 +9,20 @@
 </p>
 
 
-* ### __Overview and Origin:__
+### __Overview and Origin:__
 
 Ripple and its RippleNet Platform. Ripple was established in 2012 in San Francisco, Ca. under its original name Opencoin. 
-* Founders:
+-   Founders:
 
-    The founders are [Chris Larsen](https://en.wikipedia.org/wiki/Chris_Larsen)  and [Jed McCaleb](https://en.wikipedia.org/wiki/Jed_McCaleb). Prior to founding Ripple in 2012 Chris Larsen founded E-Loan in 1997 as one of the leaders in online lending and Prosper Market Place a peer to peer online lending platform started in 2005. Jed McCaleb, is a software developer whom prior to founding Ripple was known for the creation of Mt. Gox which was developed to facilitate the trading of a popular card game and ended up becoming a popular exchange for the _[Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)_ cryptocurrency. 
+    The founders are __[Chris Larsen](https://en.wikipedia.org/wiki/Chris_Larsen)__  and __[Jed McCaleb](https://en.wikipedia.org/wiki/Jed_McCaleb)__. Prior to founding Ripple in 2012 Chris Larsen founded E-Loan in 1997 as one of the leaders in online lending and Prosper Market Place a peer to peer online lending platform started in 2005. Jed McCaleb, is a software developer whom prior to founding Ripple was known for the creation of Mt. Gox which was developed to facilitate the trading of a popular card game and ended up becoming a popular exchange for the _[Bitcoin](https://en.wikipedia.org/wiki/Bitcoin)_ cryptocurrency. 
 * The Idea:
     
-    Ripple is two things a technology company and a cryptocurrency via the [XRP](https://www.coindesk.com/price/xrp) token. However, in order to differ the company from many other in their realm, neither the technology nor the token were created to decentralize our current banking system. Ripple was created as a solution in order to revamp our current global monetary infrastructure system. The founders saw that our current money system had not changed in decades, the cost of moving money was getting more expensive and taking longer. Using blockchain technology they saw they were able to solve several problems. The speed of money transfer, the excessive cost of transfers and the logistics. Ultimately the goal became to move money as fast as data moves in this day and age.
+    Ripple is two things a technology company and a cryptocurrency via the __[XRP](https://www.coindesk.com/price/xrp)__ token. However, in order to differ the company from many other in their realm, neither the technology nor the token were created to decentralize our current banking system. Ripple was created as a solution in order to revamp our current global monetary infrastructure system. The founders saw that our current money system had not changed in decades, the cost of moving money was getting more expensive and taking longer. Using blockchain technology they saw they were able to solve several problems. The speed of money transfer, the excessive cost of transfers and the logistics. Ultimately the goal became to move money as fast as data moves in this day and age.
 * Funding:
 
     Ripple is currently funded by individual investors, Venture Capital Firms, traditional banks, techology companies and trading firms. Top investors in Ripple are CME Ventures a large derivatives trading firm, SBI Holding investments based in Japan, highly ranked venture capoital firms based in California and New York, technology companies like Seagate Technologies which coincidentaly focuses on data storage and traditional banks like Banco Santander and Standard Chartered Bank. Since 2012 funds raised from investors have led the company to have an approximate $10 Billion valuation. The most recent funding came from a Series (C) round in December 2019 where they raised $200 Million led by Tetragon Fianncial Group. 
 
-* ### __Business Activities:__
+    ### __Business Activities:__
     
     Ripple is trying to solve two priority issues with our current financial and banking infrastucture using RippleNet.
     - The speed of bank transaction settlement - currently 3 - 5 business days.
@@ -47,7 +47,7 @@ Ripple and its RippleNet Platform. Ripple was established in 2012 in San Francis
 
     The company has over 300 customers and growing, they range from traditional banks to foreign exchange companies, cryptocurrency exchanges, payment providers and technology companies. The market size of their customers range from large cap companies to small cap. At the moment having a main competitor SWIFT, the unfair advantage Ripple has is having the ability to offer speed and low cost of the technology as well as a seamless implementation into their current systems. 
 
-* ### __Landscape:__
+    ### __Landscape:__
 
     Ripple is in the money transfer and trasaction settlement domain. 
 
@@ -58,21 +58,48 @@ Ripple and its RippleNet Platform. Ripple was established in 2012 in San Francis
     
     Zelle is the only company that has been able to directly impact banks as the Zelle platform is linked directly to your bank account as part of the banks system and not a standalone application like the previously mentioned. Paypal, Xoom, Venmo all require you to connect your account to their system which adds the possibility of human error when adding your credentials. These innovations are still very different from that being offered by Ripple as the Ripple end user is not the individual transfereing the funds it is the platform the institution will use to facilitate that task which makes it that much more attractive to institutions as the institution is ultimately the end user. However, a company by the name of SWIFT mostly unheard of outside of the finance and banking world or Society for the Worldwide Interbank Financial Telecommunication is the major company in this domain as it has been around for almost 50 years offerng the service that Ripple is disrupting. SWIFT is currently the standard for global bank messaging connectivity and money transfer. 
 
-* ### __Results:__
+    ### __Results:__
 
     * Business Impact:
 
     During 2019 RippleNet surpassed 300 customers worldwide. The have seen 10 times YoY growth in transactions. At the end of 2019 they were able to release their Ondemand Liquidity system or (ODL) via RippleNet which leverages the XRP token as a bridge currency to eliminate the need for pre-funding in cross border payments. According to banks that use the service customers that previously did not participate in cross border payments are now doing more of it because of these enhancements. In less than 1 year they were able to add 24 customers the ODL platform. 
     * Success Metrics:
 
-    Metrics used to measure succes in this domain are customers continued usage of the platform as well as continued consistent growth of platform. RippleNet as of end of 2019 has custoemrs in 45 countries and 6 continents with payout capabilities to 70 countries. MoneyGram a major customer for the RippleNet platform confirm in 2019 that they had moved more that 10% of its transaction volume between the United States and Mexico via Ripple's ODL platform. During 2019, the dollar value transacted via ODL increased more than one hundred times between Q1 and Q4. The number of ODL transactions also increased by 290% from Q3 to Q4. The plans for 2020 were to continue expanding the ODL platform for use in Asia Pacific territiries, EMEA and LATAM. Based on these metrics the company is performing very well but how does it look against its main competitor, SWIFT?
+    Metrics used to measure success in this domain are customers continued usage of the platform as well as continued consistent growth of platform. RippleNet as of end of 2019 has custoemrs in 45 countries and 6 continents with payout capabilities to 70 countries. MoneyGram a major customer for the RippleNet platform confirm in 2019 that they had moved more that 10% of its transaction volume between the United States and Mexico via Ripple's ODL platform. During 2019, the dollar value transacted via ODL increased more than one hundred times between Q1 and Q4. The number of ODL transactions also increased by 290% from Q3 to Q4. The plans for 2020 were to continue expanding the ODL platform for use in Asia Pacific territiries, EMEA and LATAM. Based on these metrics the company is performing very well but how does it look against its main competitor, SWIFT?
     * The competition:
 
-    SWIFT operates in over 200 countires, has over 11,000 financial institutions worldwide that are customers. In 2018, SWIFT, recorded an average 34.16 million FIN message or money transfer per day an increase of 10% from 2017. SWIFT is the standard worldwide for money transfer across institutions. They also provide a large platform for the transfer and settlment of securities and foreign exchange. Swift has recently implemented Swift gpi (Global Payment Initiative) which uses a cloud-based platform for facilitating real time payments. As of 2019 SWIFT in collaboration with [R3](https://www.r3.com/about/) revealed the intention to allow the integration of blockchain software to its SWIFT gpi platform.
+    SWIFT operates in over 200 countires, has over 11,000 financial institutions worldwide that are customers. In 2018, SWIFT, recorded an average 34.16 million FIN message or money transfers per day an increase of 10% from 2017. SWIFT is the standard worldwide for money transfer across institutions. They also provide a large platform for the transfer and settlment of securities and foreign exchange. Swift has recently implemented Swift gpi (Global Payment Initiative) which uses a cloud-based platform for facilitating real time payments. As of 2019 SWIFT in collaboration with __[R3](https://www.r3.com/about/)__ revealed the intention to allow the integration of blockchain software to its SWIFT gpi platform.
 
-    * Recommendations:
+    ### __Recommendations:__
+
+    * Advice:
+    
+    If I were to advise the company on additional products or services to offer I would advise them to implement a securities custodizing blockchain platform. 
+
+    - Why?:
+    
+    One of the oldest parts of our financial system used by every bank that is sometimes largely overlooked is the security custody service. Prior to the 1960s banks custodized their own securities, however, there was eventually a rise in paperwork and lack of security as paper stock certificates were traded physically in most cases. Therefore, the DTC was created to alleviate this growing issue. Currently, only the largest banking institutions custodize some of their securities in house, most banks outsource their custody requirement to third parties like other banks with capacity to custodize or more commonly to DTC and BNY Mellon, which are the largest custodians in the world. What is highly unknown is that the security custody industry is extremely lucrative especially when you compare a "small" custody operation held with HSBC currently worth $50 Billion while the two largest custodians worldwide custodize $35 Trillion __EACH__ in securities, each currently generating $2 Billion a year in revenue from their custody services. Banks and other institutions currently pay an annual subscription fee for these services. These services have not changed in decades, disrupting this sector with blockchain will change the way we trade and move securites. 
+    - Technology:
 
     
+    The service would use blockchain technology with a combination of added security. In this case, I would recommend a partnership betwen Ripple and a highly respected blockchain cybersecurity startup like __[OpenAVN](https://www.openavn.com/about/)__ or __[Block Armour](https://blockarmour.com/about)__.
+
+
+    <ins>OpenAVN:
+    
+    _Founded in 2017 in New York City, creates a new network layer to fight against destructive intrusions, all while using blockchain technology to strengthen their tools of defense._   
+
+    <ins>Block Armour:
+
+    _Founded in 2016, by using blockchain, the Block Armour team is tapping into new age technologies to deliver on their promise of stronger threat protection. their Blockchain-Defined Perimeter (BDP) is an enhanced software defined perimeter that renders critical sustems and cloud servers invisible to intruders._
+
+    * Why are the technologies appropiate?:
+
+    I believe these technologies are not only appropiate but in fact necessary in order to make the changes required to bank, trade and transact in a data driven world and economy. These changes are necessary to move valuable data in a secure and fast process. The reason I say valuable data is because I believe that is what money is becoming. What we use as money are numbers printed on a screen, which to me can be defined as data with a valuation at a given point depending on where you are physically located or what website you are visiting. Today data moves in nanoseconds, why can't we move money the same way?
+
+
+
+
 
 
 
