@@ -103,7 +103,7 @@ Ripple and its RippleNet Platform. Ripple was established in 2012 in San Francis
    <ins><b>Sources</b><ins>
 </p>
 
-| <ins>Description<ins> |             <ins>Website<ins>               |
+| <ins>Description<ins> | <ins>Website<ins> |
 |-------------|-----------------------------------|
 | **Zelle**| https://www.businessinsider.com/zelle-venmo-payments-us-banks-2017-6|
 |**SWIFT** |https://en.wikipedia.org/wikiSociety_for_Worldwide_Interbank_Financial_Telecommunication|
