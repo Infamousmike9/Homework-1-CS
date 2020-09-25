@@ -96,19 +96,36 @@ Ripple and its RippleNet Platform. Ripple was established in 2012 in San Francis
     * Why are the technologies appropriate?:
 
     I believe these technologies are not only appropriate but in fact necessary in order to make the changes required to bank, trade and transact in a data driven world and economy. These changes are necessary to move valuable data in a secure and fast process. The reason I say valuable data is because I believe that is what money is becoming. What we use as money today are numbers printed on a screen, which to me can be defined as data with a valuation at any given point depending on where you are physically located or what website you are visiting. Today, data moves in nanoseconds, why can't we move money the same way?
-
+    ___
+    ___
 
 <p align = "center">
    <ins><b>Sources</b><ins>
 </p>
 
-| Description |             Website               |
+| Description | <p align = "center">            <ins>Website<ins>               |
 |-------------|-----------------------------------|
-| Zelle| https://www.businessinsider.com/zelle-venmo-payments-us-banks-2017-6|
-|SWIFT |https://en.wikipedia.org/wikiSociety_for_Worldwide_Interbank_Financial_Telecommunication|
-|SWIFT gpi | https://www.swift.com/our-solutions/swift-gpi|
-| Ripple Metrics| https://ripple.com/insights/q4-2019-xrp-markets-report/ |
-|Swift gpi-2 | 
+| **Zelle**| https://www.businessinsider.com/zelle-venmo-payments-us-banks-2017-6|
+|**SWIFT** |https://en.wikipedia.org/wikiSociety_for_Worldwide_Interbank_Financial_Telecommunication|
+|**SWIFT gpi** | https://www.swift.com/our-solutions/swift-gpi|
+| **Ripple Metrics**| https://ripple.com/insights/q4-2019-xrp-markets-report/ |
+| **SWIFT gpi & Blockchain** | https://www.pymnts.com/news/b2b-payments/2019/swift-to-open-gpi-to-blockchain-rails/|
+| **R3** | https://www.r3.com/about/ |
+| **HSBC** | https://www.ledgerinsights.com/hsbc-securities-blockchain-custody/|
+|**OpenAVS & Block Armour** | https://www.disruptordaily.com/blockchain-startups-cyber-security/|
+| **DTC/DTCC** | https://en.wikipedia.org/wiki/Depository_Trust_%26_Clearing_Corporation|
+| **Series C** | https://www.investopedia.com/articles/personal-finance/102015/series-b-c-funding-what-it-all-means-and-how-it-works.asp#:~:text=In%20Series%20C%20rounds%2C%20investors,and%20as%20successfully%20as%20possible.&text=In%20this%20case%2C%20Series%20C,used%20to%20buy%20another%20company.|
+| **Ripple Blockchain & Ripple Blockchain Diagram** | https://intellipaat.com/blog/tutorial/blockchain-tutorial/ripple-blockchain/|
+| **RippleNet** |  https://www.pymnts.com/tag/ripplenet/ |
+| **Ripple Partners & Customers** | https://www.publish0x.com/xrp-community/full-list-of-ripple-customers-20192020-update-xmjwkg |
+| **RippleNet Growth Metrics** | https://ripple.com/insights/ripplenet-growth-announcing-more-than-300-customers/|
+| **Ripple vs SWIFT** | https://www.financemagnates.com/cryptocurrency/news/ripple-vs-swift-who-is-going-to-dominate-inter-bank-money-transfers/#:~:text=SWIFT%20is%20a%2046%2Dyear,Ripple%20was%20established%20in%202012.&text=Blockchain%2C%20after%20going%20mainstream%20in,the%20most%20%E2%80%93%20the%20financial%20sector. |
+| **FIN Messages** | https://searcherp.techtarget.com/definition/SWIFT-FIN-message#:~:text=SWIFT%20FIN%20is%20a%20message,numbers%20identify%20the%20message%20type. |
+| **RippleLabs** | https://en.wikipedia.org/wiki/Ripple_Labs#:~:text=Ripple%20Labs%2C%20Inc.%20is%20an,based%20in%20San%20Francisco%2C%20California. |
+| **BNY Mellon Custody Services** | https://www.bnymellon.com/us/en/what-we-do/investment-services/asset-servicing/custody-services.jsp |
+
+
+
 
 
 
